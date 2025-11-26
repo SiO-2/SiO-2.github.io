@@ -4,13 +4,9 @@
     - name: Name
       value: Zhifan Luo (罗志凡)
     - name: Birth
-      value: 5th January 2001
-    - name: Position
-      value: CS Master Student @ ZJU
+      value: January 2001
     - name: Email
       value: luozhifan@zju.edu.cn
-    - name: Website
-      value: https://sio-2.github.io
     - name: Languages
       value: Chinese, English
 
